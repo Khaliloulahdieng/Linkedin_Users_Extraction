@@ -1,7 +1,7 @@
 import csv
 from linkedin_api import Linkedin
 
-api = Linkedin('diengibra70@gmail.com', 'Senegal_123')
+api = Linkedin('blabla@gmail.com', 'blabla')
 #print(api.get_profile('ibrahima-dieng-2870a811a'))
 
 #School informations
