@@ -6,7 +6,7 @@ api = Linkedin('blabla@gmail.com', 'blabla')
 
 #School informations
 school = 'your-school'
-max_results = 10
+max_results = 1000
 
 kwargs = {
      "keywords": "school:\"" + school +"\"",
